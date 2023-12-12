@@ -17,6 +17,11 @@
 
 此項目旨在通過對 Amazon 平台上商品評論和評分的深入分析，探索消費者行為和市場趨勢，並提供具價值的見解和建議。
 
+### 📚 Reference Paper
+
+For in-depth analysis and research data, refer to the following paper:
+[McAuley, J., Pandey, R., & Leskovec, J. (2019). "RecSys'19: Proceedings of the 13th ACM Conference on Recommender Systems."](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19a.pdf)
+
 ## 🚀 Key Features
 
 - **評論文本分析** - 分析 Amazon 商品評論，理解消費者對產品的看法和情感。
