@@ -11,20 +11,23 @@
 ---
 
 ## 📈 Analytics 
-<p align="left">透過分析 Amazon 平台上的商品評論和評分，洞察消費者行為和市場趨勢。<a href="https://docs.google.com/document/d/1Ib1UEaVEn1E_h2msYNySb_KUepkNDn1TblJRXZ0N0NY/edit?usp=sharing">🅿️ 查看投影片</a></p>
+<p align="left">Gaining insights into consumer behavior and market trends by analyzing product reviews and ratings on the Amazon platform.<br>
+  <a href="https://docs.google.com/document/d/1Ib1UEaVEn1E_h2msYNySb_KUepkNDn1TblJRXZ0N0NY/edit?usp=sharing">🅿️ View the slideshow</a></p>
 
 ## 📝 Purpose
 
-此項目旨在通過對 Amazon 平台上商品評論和評分的深入分析，探索消費者行為和市場趨勢，並提供具價值的見解和建議。
-
-### 📚 Reference Paper
-
-For in-depth analysis and research data, refer to the following paper:
-[McAuley, J., Pandey, R., & Leskovec, J. (2019). "RecSys'19: Proceedings of the 13th ACM Conference on Recommender Systems."](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19a.pdf)
+This project aims to explore consumer behavior and market trends through in-depth analysis of product reviews and ratings on the Amazon platform, providing valuable insights and recommendations.
 
 ## 🚀 Key Features
 
-- **評論文本分析** - 分析 Amazon 商品評論，理解消費者對產品的看法和情感。
-- **評分分佈觀察** - 探索 Amazon 商品評分分佈，瞭解產品的整體評價和趨勢。  
-- **市場趨勢洞察** - 根據分析結果提供消費者行為和市場趨勢的深入洞察。
-- **優化建議** - 根據分析結果提出優化策略和建議，以改進商品銷售和市場表現。
+- **Textual Analysis of Reviews** - Analyzing Amazon product reviews to comprehend consumer opinions and sentiments.
+- **Observation of Rating Distribution** - Exploring the distribution of Amazon product ratings to understand overall product evaluation and trends.
+- **Market Trend Insights** - Providing in-depth insights into consumer behavior and market trends based on the analysis results.
+- **Optimization Suggestions** - Proposing optimization strategies and recommendations to enhance product sales and market performance based on the analysis findings.
+## 📚 Reference Paper
+
+For in-depth analysis and research data, refer to the following paper:<br>
+[McAuley, J., Pandey, R., & Leskovec, J. (2019). "RecSys'19: Proceedings of the 13th ACM Conference on Recommender Systems."](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19a.pdf)
+
+
+  
